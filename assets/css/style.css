@@ -664,7 +664,16 @@ body { background: var(--white); }
 }
 
 
+/**
+* YOUTUBE
+*/
 
+@media (max-width: 768px) {
+  iframe {
+    width: 100%;
+    height: auto;
+  }
+}
 
 
 /*-----------------------------------*\
@@ -1087,14 +1096,25 @@ address {
   .gallery-image { border-radius: var(--radius-25); }
 
 
+  /**
+   * SLIDER
+   */
+
+ 
+  
  /**
   * TEAM SECTION
   */
+
+
+  
    
-  
-
-  
-
+  @media (max-width: 768px) {
+    iframe {
+      width: 100%;
+      height: auto;
+    }
+  }
 
   /**
    * CTA

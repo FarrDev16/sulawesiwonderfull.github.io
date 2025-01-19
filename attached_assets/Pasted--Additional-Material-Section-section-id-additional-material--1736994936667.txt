@@ -1,0 +1,92 @@
+ <!-- Additional Material Section -->
+            <section id="additional-material">
+                <div class="container">
+                    <h2 class="text-center">Materi</h2>
+                    <div class="video-grid">
+                        <div class="video-frame">
+                            <iframe src="https://www.youtube.com/embed/VIDEO_ID1" frameborder="0" allowfullscreen></iframe>
+                            <div class="video-info">
+                                <p class="video-title">Nama Video 1</p>
+                                <p class="video-date">Diunggah pada 1 Januari 2024</p>
+                            </div>
+                        </div>
+                        <div class="video-frame">
+                            <iframe src="https://www.youtube.com/embed/VIDEO_ID2" frameborder="0" allowfullscreen></iframe>
+                            <div class="video-info">
+                                <p class="video-title">Nama Video 2</p>
+                                <p class="video-date">Diunggah pada 15 Januari 2024</p>
+                            </div>
+                        </div>
+                        <div class="video-frame">
+                            <iframe src="https://www.youtube.com/embed/VIDEO_ID3" frameborder="0" allowfullscreen></iframe>
+                            <div class="video-info">
+                                <p class="video-title">Nama Video 3</p>
+                                <p class="video-date">Diunggah pada 20 Januari 2024</p>
+                            </div>
+                        </div>
+                        <div class="video-frame">
+                            <iframe src="https://www.youtube.com/embed/VIDEO_ID4" frameborder="0" allowfullscreen></iframe>
+                            <div class="video-info">
+                                <p class="video-title">Nama Video 4</p>
+                                <p class="video-date">Diunggah pada 25 Januari 2024</p>
+                            </div>
+                        </div>
+                        <div class="video-frame">
+                            <iframe src="https://www.youtube.com/embed/VIDEO_ID5" frameborder="0" allowfullscreen></iframe>
+                            <div class="video-info">
+                                <p class="video-title">Nama Video 5</p>
+                                <p class="video-date">Diunggah pada 30 Januari 2024</p>
+                            </div>
+                        </div>
+                        <div class="video-frame">
+                            <iframe src="https://www.youtube.com/embed/VIDEO_ID6" frameborder="0" allowfullscreen></iframe>
+                            <div class="video-info">
+                                <p class="video-title">Nama Video 6</p>
+                                <p class="video-date">Diunggah pada 5 Februari 2024</p>
+                            </div>
+                        </div>
+                        <div class="video-frame">
+                            <iframe src="https://www.youtube.com/embed/VIDEO_ID7" frameborder="0" allowfullscreen></iframe>
+                            <div class="video-info">
+                                <p class="video-title">Nama Video 7</p>
+                                <p class="video-date">Diunggah pada 10 Februari 2024</p>
+                            </div>
+                        </div>
+                        <div class="video-frame">
+                            <iframe src="https://www.youtube.com/embed/VIDEO_ID8" frameborder="0" allowfullscreen></iframe>
+                            <div class="video-info">
+                                <p class="video-title">Nama Video 8</p>
+                                <p class="video-date">Diunggah pada 15 Februari 2024</p>
+                            </div>
+                        </div>
+                        <div class="video-frame">
+                            <iframe src="https://www.youtube.com/embed/VIDEO_ID9" frameborder="0" allowfullscreen></iframe>
+                            <div class="video-info">
+                                <p class="video-title">Nama Video 9</p>
+                                <p class="video-date">Diunggah pada 20 Februari 2024</p>
+                            </div>
+                        </div>
+                        <div class="video-frame">
+                            <iframe src="https://www.youtube.com/embed/VIDEO_ID10" frameborder="0" allowfullscreen></iframe>
+                            <div class="video-info">
+                                <p class="video-title">Nama Video 10</p>
+                                <p class="video-date">Diunggah pada 25 Februari 2024</p>
+                            </div>
+                        </div>
+                      <div class="video-frame">
+                          <iframe src="https://www.youtube.com/embed/VIDEO_ID10" frameborder="0" allowfullscreen></iframe>
+                          <div class="video-info">
+                              <p class="video-title">Nama Video 10</p>
+                              <p class="video-date">Diunggah pada 25 Februari 2024</p>
+                          </div>
+                      </div>
+                      <div class="video-frame">
+                          <iframe src="https://www.youtube.com/embed/VIDEO_ID10" frameborder="0" allowfullscreen></iframe>
+                          <div class="video-info">
+                              <p class="video-title">Nama Video 10</p>
+                              <p class="video-date">Diunggah pada 25 Februari 2024</p>
+                          </div>
+                      </div>
+                    </div>
+                </div>
+            </section>
